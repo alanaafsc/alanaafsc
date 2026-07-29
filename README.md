@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Alana
-I hold a degree in Mechanical Engineering from the Federal University of Pernambuco (UFPE), and I am currently pursuing a Master's degree in Computer Science at Cin - UFPE. Additionally, I work as a senior software engineer at Pismo/Visa.
+I hold a Bachelor's degree in Mechanical Engineering and a Master's degree in Computer Science, both from the Federal University of Pernambuco (UFPE). Currently, I work as a Senior Software Engineer at Pismo/Visa.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://linkedin.com/in/alana-ingrid-fernandes)
 
